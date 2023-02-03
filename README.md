@@ -81,6 +81,13 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 分享深度学习、自然语言处理、神经网络方面等主题的 up 主。
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/15afabcda93279a5ab2f736513ad112e836a9701.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/1567748478)
+
+[**跟李沐学AI**](https://space.bilibili.com/1567748478) \
+内容类型：Vue、Nuxt、TypeScript \
+精选内容：`Transformer论文逐段精读【论文精读】`, `斯坦福2021秋季·实用机器学习【中文】`, `动手学深度学习 PyTorch版`
+
+
 [🔼 回到顶部](#contents)
 
 ## 游戏开发
