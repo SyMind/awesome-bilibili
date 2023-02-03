@@ -25,6 +25,7 @@
 	- [后端](#后端)
 -   [计算机科学](#计算机科学)
 -   [机器学习](#机器学习)
+-   [区块链](#区块链)
 -   [游戏开发](#游戏开发)
 -   [移动端开发](#移动端开发)
 -   [网络安全](#网络安全)
@@ -68,7 +69,7 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 [**技术胖**](https://space.bilibili.com/165659472) \
 内容类型：Vue、React、Nuxt、Flutter、TypeScript、Docker \
-精选内容：`程序员前端知识图谱+B站自学资源整合 新手自学无忧 老手查缺补漏`，`Flutter基础视频教程`，`TypeScript从入门到精通视频教程`，`Electron免费视频教程-从基础到实战`
+精选内容：`Flutter基础视频教程`，`TypeScript从入门到精通视频教程`，`Electron免费视频教程-从基础到实战`
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/d945b3c10c48053d1d23769dc6a7b4140971835c.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/26995758)
 
@@ -109,6 +110,18 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 [**莫烦Python**](https://space.bilibili.com/243821484) \
 内容类型：Tensorflow、PyTorch、Numpy、Pandas \
 精选内容：`【莫烦Python】Tensorflow 搭建自己的神经网络`，`【莫烦Python】PyTorch 神经网络`，`【莫烦Python】Numpy & Pandas (数据处理教程)`
+
+[🔼 回到顶部](#内容)
+
+# 区块链
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i1.hdslb.com/bfs/face/d7d206ed7abc18b001deea7a8c9dc7ed84e441ee.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/12370885)
+
+[**北京大学计算机系肖臻**](https://space.bilibili.com/12370885) \
+内容类型：区块链 \
+精选内容：`区块链技术与应用`
+
+<br />
 
 [🔼 回到顶部](#内容)
 
