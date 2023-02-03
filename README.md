@@ -41,6 +41,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 ### 前端
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i1.hdslb.com/bfs/face/519cb17285e6b9450a738472cb0b95aeb8676547.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/668380)
+
+[**AnthonyFu一个托尼**](https://space.bilibili.com/668380) \
+内容类型：Vue、Nuxt、TypeScript \
+精选内容：`用 Vue 写个扫雷吧！`, `Vue 和 NuxtLabs 核心成员 Anthony Fu 的开源人生`, `起飞！跨路由 Vue 组件动画实验`
+
 ### 后端
 
 [🔼 回到顶部](#contents)
