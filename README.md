@@ -121,6 +121,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 ## 计算机网络
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/e749bf636c957649af9394eb442b96d2f2c54e69.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/360996402)
+
+[**湖科大教书匠**](https://space.bilibili.com/360996402) \
+内容类型：计算机网络 \
+精选内容：`计算机网络微课堂`，`计算机网络 思科Cisco Packet Tracer仿真实验`，`计算机网络408考研 历年真题解析`，`计算机网络简明教程及仿真实验`
+
 [🔼 回到顶部](#contents)
 
 ## 操作系统
