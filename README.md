@@ -33,7 +33,7 @@
 -   [操作系统](#操作系统)
 -   [音频与视频](#音频与视频)
 -   [硬件](#硬件)
--   [资讯](#资讯)
+-   [资讯与杂谈](#资讯与杂谈)
 
 ## 通用编程技能
 
@@ -183,7 +183,7 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 [🔼 回到顶部](#内容)
 
-## 资讯
+## 资讯与杂谈
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i1.hdslb.com/bfs/face/e617d803052a27838a8abe32d153b9982c7c0c50.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/12591775)
 
