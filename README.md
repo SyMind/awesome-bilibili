@@ -33,6 +33,14 @@
 
 ## 通用编程技能
 
+编程语言有很多。在本节中，你可以找到任何编程语言，包括 Python、C、Java。此外，许多 b 站 up 主教授这些语言的框架。不仅是编程语言，还有更为通用的编程技能，有实战教程也有理论教程。
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i1.hdslb.com/bfs/face/da5e47c81a8914084d6db2d364c075b451c058e2.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/245645656)
+
+[**码农高天**](https://space.bilibili.com/245645656) \
+内容类型：Python \
+精选内容：`一眼就能看出唱功和假唱？用软件来分析一下跨年演唱会的歌手们！`, `【羊了个羊】故意设置死局？程序员的陷阱？源代码不会骗人！带你揭秘这只羊背后的逻辑`, `【python】魔术方法大全`
+
 [🔼 回到顶部](#contents)
 
 ## Web 开发
