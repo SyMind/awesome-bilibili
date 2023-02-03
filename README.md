@@ -64,6 +64,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 内容类型：Vue、Nuxt、TypeScript \
 精选内容：`用 Vue 写个扫雷吧！`，`Vue 和 NuxtLabs 核心成员 Anthony Fu 的开源人生`，`起飞！跨路由 Vue 组件动画实验`，`Vue 全自动引入黑魔法`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/c81969907b5c286b50d02400e7d54b13595f09bb.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/165659472)
+
+[**技术胖**](https://space.bilibili.com/165659472) \
+内容类型：Vue、React、Nuxt、Flutter、TypeScript、Docker \
+精选内容：`程序员前端知识图谱+B站自学资源整合 新手自学无忧 老手查缺补漏`，`Flutter基础视频教程`，`TypeScript从入门到精通视频教程`，`Electron免费视频教程-从基础到实战`
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/d945b3c10c48053d1d23769dc6a7b4140971835c.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/26995758)
 
 [**花果山-大圣**](https://space.bilibili.com/26995758) \
@@ -74,9 +80,9 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 [**魔术师卡颂**](https://space.bilibili.com/453618117) \
 内容类型：React \
-精选内容：`从0实现最接近官方版本的React，完全拿捏住React`，`React性能优化，你需要知道的一切`
+精选内容：`从0实现最接近官方版本的React，完全拿捏住React`，`React性能优化，你需要知道的一切`，`React Hooks的理念、实现、源码`
 
-<br />
+[🔼 回到顶部](#内容)
 
 ### 后端
 
