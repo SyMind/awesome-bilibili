@@ -39,13 +39,13 @@
 
 [**码农高天**](https://space.bilibili.com/245645656) \
 内容类型：Python \
-精选内容：`一眼就能看出唱功和假唱？用软件来分析一下跨年演唱会的歌手们！`, `【羊了个羊】故意设置死局？程序员的陷阱？源代码不会骗人！带你揭秘这只羊背后的逻辑`, `【python】魔术方法大全`
+精选内容：`一眼就能看出唱功和假唱？用软件来分析一下跨年演唱会的歌手们！`，`【羊了个羊】故意设置死局？程序员的陷阱？源代码不会骗人！带你揭秘这只羊背后的逻辑`，`【python】魔术方法大全`
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/2839f985db44bc2e756e6df2d26f1849904d552c.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/12890453)
 
 [**程序员鱼皮**](https://space.bilibili.com/12890453) \
 内容类型：Java \
-精选内容：`托大家的福，网站又被攻击了，这次挂了！`, `该无脑计算机吗？一个视频讲透计算机类所有专业！`, `Java学习路线一条龙版，无脑通关大厂，不迷茫！全面贴心`
+精选内容：`托大家的福，网站又被攻击了，这次挂了！`，`该无脑计算机吗？一个视频讲透计算机类所有专业！`，`Java学习路线一条龙版，无脑通关大厂，不迷茫！全面贴心`
 
 [🔼 回到顶部](#contents)
 
@@ -59,19 +59,20 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 [**AnthonyFu一个托尼**](https://space.bilibili.com/668380) \
 内容类型：Vue、Nuxt、TypeScript \
-精选内容：`用 Vue 写个扫雷吧！`, `Vue 和 NuxtLabs 核心成员 Anthony Fu 的开源人生`, `起飞！跨路由 Vue 组件动画实验`
+精选内容：`用 Vue 写个扫雷吧！`，`Vue 和 NuxtLabs 核心成员 Anthony Fu 的开源人生`，`起飞！跨路由 Vue 组件动画实验`
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/d945b3c10c48053d1d23769dc6a7b4140971835c.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/26995758)
 
 [**花果山-大圣**](https://space.bilibili.com/26995758) \
 内容类型：Vue、Nuxt、TypeScript \
-精选内容：`1块钱注册火爆全网的ChatGPT机器人-帮你发邮件写代码`, `【Web前端会客厅】Vue之父尤雨溪深度解读Vue3.0的开发思路`, `Javascript书籍全测评【前端必备】`
+精选内容：`1块钱注册火爆全网的ChatGPT机器人-帮你发邮件写代码`，`【Web前端会客厅】Vue之父尤雨溪深度解读Vue3.0的开发思路`，`Javascript书籍全测评【前端必备】`
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/405643622474f653373ff310c704f50075809d58.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/453618117)
 
 [**魔术师卡颂**](https://space.bilibili.com/453618117) \
 内容类型：React \
-精选内容：`从0实现最接近官方版本的React，完全拿捏住React`, `React性能优化，你需要知道的一切`
+精选内容：`从0实现最接近官方版本的React，完全拿捏住React`，`React性能优化，你需要知道的一切`
+
 
 ### 后端
 
@@ -90,9 +91,14 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/15afabcda93279a5ab2f736513ad112e836a9701.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/1567748478)
 
 [**跟李沐学AI**](https://space.bilibili.com/1567748478) \
-内容类型：Vue、Nuxt、TypeScript \
-精选内容：`Transformer论文逐段精读【论文精读】`, `斯坦福2021秋季·实用机器学习【中文】`, `动手学深度学习 PyTorch版`
+内容类型：PyTorch \
+精选内容：`Transformer论文逐段精读【论文精读】`，`斯坦福2021秋季·实用机器学习【中文】`，`动手学深度学习 PyTorch版`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/66d18877c510381d9479d822fc4dfecb82c2efc3.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/243821484)
+
+[**莫烦Python**](https://space.bilibili.com/243821484) \
+内容类型：Tensorflow、PyTorch、Numpy、Pandas \
+精选内容：`【莫烦Python】Tensorflow 搭建自己的神经网络`，`【莫烦Python】PyTorch 神经网络`，`【莫烦Python】Numpy & Pandas (数据处理教程)`
 
 [🔼 回到顶部](#contents)
 
