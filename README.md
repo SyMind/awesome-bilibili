@@ -89,6 +89,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 内容类型：React \
 优质内容：`从0实现最接近官方版本的React，完全拿捏住React`，`React性能优化，你需要知道的一切`，`React Hooks的理念、实现、源码`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/ffcc0765bd07720d2e7c7eb7f0d129adf92b3edb.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/388510269)
+
+[**前端圈**](https://space.bilibili.com/388510269) \
+内容类型：技术分享 \
+优质内容：`VueUse 作者 Anthony Fu 分享可组合的 Vue`，`基于Electron-Vue的桌面应用开发实践`，`Vue.js作者尤雨溪在VueConf 2021谈Vue 3 生态进展`，`尤雨溪：State of Vue`，`Vite：下一代Web工具`，`从零开始：Webpack 优化实践`
+
 [🔼 回到顶部](#内容)
 
 ### 后端
