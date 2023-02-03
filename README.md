@@ -1,6 +1,6 @@
 <div align="center">
   	<h1>
-    	Awesome 的 b 站 up 主
+    	b 站的宝藏 up 主名单
 		<a href="https://awesome.re">
 			<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 		</a>
@@ -13,7 +13,9 @@
 	</div>
 </div>
 
-> 观看 b 站 up 主的视频教程，了解技术知识。
+<br />
+
+> 观看 b 站 up 主们的视频教程，学习技术知识。
 
 ## 内容
 
