@@ -61,6 +61,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 内容类型：Vue、Nuxt、TypeScript \
 精选内容：`用 Vue 写个扫雷吧！`, `Vue 和 NuxtLabs 核心成员 Anthony Fu 的开源人生`, `起飞！跨路由 Vue 组件动画实验`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/d945b3c10c48053d1d23769dc6a7b4140971835c.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/26995758)
+
+[**花果山-大圣**](https://space.bilibili.com/26995758) \
+内容类型：Vue、Nuxt、TypeScript \
+精选内容：`1块钱注册火爆全网的ChatGPT机器人-帮你发邮件写代码`, `【Web前端会客厅】Vue之父尤雨溪深度解读Vue3.0的开发思路`, `Javascript书籍全测评【前端必备】`
+
 ### 后端
 
 [🔼 回到顶部](#contents)
