@@ -67,6 +67,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 内容类型：Vue、Nuxt、TypeScript \
 精选内容：`1块钱注册火爆全网的ChatGPT机器人-帮你发邮件写代码`, `【Web前端会客厅】Vue之父尤雨溪深度解读Vue3.0的开发思路`, `Javascript书籍全测评【前端必备】`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/405643622474f653373ff310c704f50075809d58.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/453618117)
+
+[**魔术师卡颂**](https://space.bilibili.com/453618117) \
+内容类型：React \
+精选内容：`从0实现最接近官方版本的React，完全拿捏住React`, `React性能优化，你需要知道的一切`
+
 ### 后端
 
 [🔼 回到顶部](#contents)
