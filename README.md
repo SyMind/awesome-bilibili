@@ -71,6 +71,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 内容类型：React \
 优质内容：`React 国情咨文 2022`、`React 官方教程导读 | 划重点`、`丢人了，我居然不知道 Base64 编码的原理`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i1.hdslb.com/bfs/face/80384b478798ada204ffd8058b3d156ff5e38bbb.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/327247876)
+
+[**技术蛋老师**](https://space.bilibili.com/327247876) \
+内容类型：计算机网络、Vue、JavaScript \
+优质内容：`计算机网络-通熟易懂讲解每个知识要点`、`从零开始学习Vue3核心技术知识`、`JavaScript知识要点 - Web前端开发必备`、`CSS知识要点 - Web前端开发必备`
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/c81969907b5c286b50d02400e7d54b13595f09bb.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/165659472)
 
 [**技术胖**](https://space.bilibili.com/165659472) \
