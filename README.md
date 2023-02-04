@@ -99,6 +99,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 ### 后端
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/a194f3cbe6e399caf7a6c88f578edc4b7ef65592.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/373073810)
+
+[**刘丹冰Aceld**](https://space.bilibili.com/373073810) \
+内容类型：Go、Linux \
+优质内容：`8小时转职Golang工程师(如果你想低成本学习Go语言)`、`zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)`、`Golang深入理解GPM模型`、`Golang中GC回收机制三色标记与混合写屏障`、`深入理解Linux中网络I/O复用并发模型`、`Easy搞定Golang设计模式(学Go语言设计模式，如此简单!)`
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/cf8dce0c6036728da66a47fbb3662d0500051951.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/296029197)
 
 [**诸葛-老师**](https://space.bilibili.com/296029197) \
