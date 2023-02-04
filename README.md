@@ -99,6 +99,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 ### 后端
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/cf8dce0c6036728da66a47fbb3662d0500051951.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/296029197)
+
+[**诸葛-老师**](https://space.bilibili.com/296029197) \
+内容类型：Java、Spring、MySQL、面试题 \
+优质内容：`2020年最详细的23种Java设计模式完整视频教程全集`、`2020年最详细的23种Java设计模式完整视频教程全集`、`B站唯一讲的最好的阿里P7级Java架构师课程全套视频精讲100集`
+
 [🔼 回到顶部](#内容)
 
 ## 计算机科学
