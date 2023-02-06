@@ -51,6 +51,12 @@
 内容类型：Java \
 优质内容：`托大家的福，网站又被攻击了，这次挂了！`、`该无脑计算机吗？一个视频讲透计算机类所有专业！`、`Java学习路线一条龙版，无脑通关大厂，不迷茫！全面贴心`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/a7bd8ce9d42cf6021aa3354dadc211c498ace18a.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/372313671)
+
+[**奇乐编程学院**](https://space.bilibili.com/372313671) \
+内容类型：原理、框架入门、算法 \
+优质内容：`FFmpeg 最最强大的视频工具 (转码/压缩/剪辑/滤镜/水印/录屏/Gif/...)`、`最浅显易懂的 KMP 算法讲解`、`React Reactjs 10分钟快速入门`、`为什么你应当使用 TypeScript? TS 十分钟快速入门`、`多线程编程：一次性搞懂线程同步机制`、`用AI写代码是什么样的体验？亲测GitHub Copilot`
+
 [🔼 回到顶部](#内容)
 
 ## Web 开发
@@ -100,6 +106,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 [**前端圈**](https://space.bilibili.com/388510269) \
 内容类型：技术分享 \
 优质内容：`VueUse 作者 Anthony Fu 分享可组合的 Vue`、`基于Electron-Vue的桌面应用开发实践`、`Vue.js作者尤雨溪在VueConf 2021谈Vue 3 生态进展`、`尤雨溪：State of Vue`、`Vite：下一代Web工具`、`从零开始：Webpack 优化实践`
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/97d3584ccde1a139f35b5d5c98d821d4a060484b.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/302954484)
+
+[**峰华前端工程师**](https://space.bilibili.com/302954484) \
+内容类型：技术分享 \
+优质内容：`CSS :where()，一种没有优先级的选择器`、`Turbopack 使用体验如何？| Webpack 后继打包工具`、`一个视频学会 Vue3 前端开发`、`7 分钟掌握 JavaScript 核心语法`、`从零使用 React + Tailwind CSS 制作响应式网站`
 
 [🔼 回到顶部](#内容)
 
