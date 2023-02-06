@@ -19,21 +19,21 @@
 
 ## 内容
 
--   [通用编程技能](#通用编程技能)
--   [Web 开发](#web-开发)
-	- [前端](#前端)
-	- [后端](#后端)
--   [计算机科学](#计算机科学)
--   [机器学习](#机器学习)
--   [区块链](#区块链)
--   [游戏开发](#游戏开发)
--   [移动端开发](#移动端开发)
--   [网络安全](#网络安全)
--   [计算机网络](#计算机网络)
--   [操作系统](#操作系统)
--   [音频与视频](#音频与视频)
--   [硬件](#硬件)
--   [资讯与杂谈](#资讯与杂谈)
+- [通用编程技能](#通用编程技能)
+- [Web 开发](#web-开发)
+  - [前端](#前端)
+  - [后端](#后端)
+- [计算机科学](#计算机科学)
+- [机器学习](#机器学习)
+- [区块链](#区块链)
+- [游戏开发](#游戏开发)
+- [移动端开发](#移动端开发)
+- [网络安全](#网络安全)
+- [计算机网络](#计算机网络)
+- [操作系统](#操作系统)
+- [音频与视频](#音频与视频)
+- [硬件](#硬件)
+- [资讯与杂谈](#资讯与杂谈)
 
 ## 通用编程技能
 
@@ -51,6 +51,12 @@
 内容类型：Java \
 优质内容：`托大家的福，网站又被攻击了，这次挂了！`、`该无脑计算机吗？一个视频讲透计算机类所有专业！`、`Java学习路线一条龙版，无脑通关大厂，不迷茫！全面贴心`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/a7bd8ce9d42cf6021aa3354dadc211c498ace18a.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/372313671)
+
+[**奇乐编程学院**](https://space.bilibili.com/372313671) \
+内容类型：原理、框架入门、算法 \
+优质内容：`FFmpeg 最最强大的视频工具 (转码/压缩/剪辑/滤镜/水印/录屏/Gif/...)`、`最浅显易懂的 KMP 算法讲解`、`React Reactjs 10分钟快速入门`、`为什么你应当使用 TypeScript? TS 十分钟快速入门`、`多线程编程：一次性搞懂线程同步机制`、`用AI写代码是什么样的体验？亲测GitHub Copilot`
+
 [🔼 回到顶部](#内容)
 
 ## Web 开发
@@ -61,7 +67,7 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i1.hdslb.com/bfs/face/519cb17285e6b9450a738472cb0b95aeb8676547.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/668380)
 
-[**AnthonyFu一个托尼**](https://space.bilibili.com/668380) \
+[**AnthonyFu 一个托尼**](https://space.bilibili.com/668380) \
 内容类型：Vue、Nuxt、TypeScript \
 优质内容：`用 Vue 写个扫雷吧！`、`Vue 和 NuxtLabs 核心成员 Anthony Fu 的开源人生`、`起飞！跨路由 Vue 组件动画实验`、`Vue 全自动引入黑魔法`
 
@@ -101,13 +107,19 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 内容类型：技术分享 \
 优质内容：`VueUse 作者 Anthony Fu 分享可组合的 Vue`、`基于Electron-Vue的桌面应用开发实践`、`Vue.js作者尤雨溪在VueConf 2021谈Vue 3 生态进展`、`尤雨溪：State of Vue`、`Vite：下一代Web工具`、`从零开始：Webpack 优化实践`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/97d3584ccde1a139f35b5d5c98d821d4a060484b.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/302954484)
+
+[**峰华前端工程师**](https://space.bilibili.com/302954484) \
+内容类型：技术分享 \
+优质内容：`CSS :where()，一种没有优先级的选择器`、`Turbopack 使用体验如何？| Webpack 后继打包工具`、`一个视频学会 Vue3 前端开发`、`7 分钟掌握 JavaScript 核心语法`、`从零使用 React + Tailwind CSS 制作响应式网站`
+
 [🔼 回到顶部](#内容)
 
 ### 后端
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/a194f3cbe6e399caf7a6c88f578edc4b7ef65592.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/373073810)
 
-[**刘丹冰Aceld**](https://space.bilibili.com/373073810) \
+[**刘丹冰 Aceld**](https://space.bilibili.com/373073810) \
 内容类型：Go、Linux \
 优质内容：`8小时转职Golang工程师(如果你想低成本学习Go语言)`、`zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)`、`Golang深入理解GPM模型`、`Golang中GC回收机制三色标记与混合写屏障`、`深入理解Linux中网络I/O复用并发模型`、`Easy搞定Golang设计模式(学Go语言设计模式，如此简单!)`
 
@@ -131,13 +143,13 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/15afabcda93279a5ab2f736513ad112e836a9701.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/1567748478)
 
-[**跟李沐学AI**](https://space.bilibili.com/1567748478) \
+[**跟李沐学 AI**](https://space.bilibili.com/1567748478) \
 内容类型：PyTorch \
 优质内容：`Transformer论文逐段精读【论文精读】`、`斯坦福2021秋季·实用机器学习【中文】`、`动手学深度学习 PyTorch版`
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/66d18877c510381d9479d822fc4dfecb82c2efc3.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/243821484)
 
-[**莫烦Python**](https://space.bilibili.com/243821484) \
+[**莫烦 Python**](https://space.bilibili.com/243821484) \
 内容类型：Tensorflow、PyTorch、Numpy、Pandas \
 优质内容：`【莫烦Python】Tensorflow 搭建自己的神经网络`、`【莫烦Python】PyTorch 神经网络`、`【莫烦Python】Numpy & Pandas (数据处理教程)`
 
@@ -211,7 +223,7 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/44882c2e4e40e370f328baa8583e33135eb36d07.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/489667127)
 
-[**Koala聊开源**](https://space.bilibili.com/489667127) \
+[**Koala 聊开源**](https://space.bilibili.com/489667127) \
 内容类型：科技周报、开源案例分析 \
 优质内容：`Hacker News 周报`、`Bloomberg｜财经巨头的开源之道｜Benefited from Open Source`、`Mozilla，火狐浏览器背后神秘又伟大的开源组织｜Open Source Prism`、`Vercel 与 Next.js：开源全明星团队背后的商业逻辑｜Monetizing Open Source`
 
