@@ -171,6 +171,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 如今，我们无法想象没有智能手机的生活，移动端开发让智能手机拥有更好的体验。在本节中，你可以学习如何从头开始构建面向消费者的移动端应用。了解如何遵循行业最佳实践。学习 Kotlin 或 Swift 开发 Android 或 iOS 中的应用，或学习 React Native 和 Flutter 等跨平台技术。
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/05b9574be12d4981435902337ab8c9ccad83c888.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/589533168)
+
+[**王叔不秃**](https://space.bilibili.com/589533168) \
+内容类型：Flutter \
+优质内容：`Flutter编程挑战和讨论`、`Flutter详解系列教程`、`Flutter 布局（Layout）原理`、`Flutter 异步（Async）操作`、`Flutter 动画教程`
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/3724f3593f236942d9abf55c9b37738ad5eb2da7.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/137860026)
 
 [**longway777**](https://space.bilibili.com/137860026) \
