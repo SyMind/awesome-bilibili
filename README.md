@@ -45,12 +45,6 @@
 内容类型：Python \
 优质内容：`一眼就能看出唱功和假唱？用软件来分析一下跨年演唱会的歌手们！`、`【羊了个羊】故意设置死局？程序员的陷阱？源代码不会骗人！带你揭秘这只羊背后的逻辑`、`【python】魔术方法大全`
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/2839f985db44bc2e756e6df2d26f1849904d552c.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/12890453)
-
-[**程序员鱼皮**](https://space.bilibili.com/12890453) \
-内容类型：Java \
-优质内容：`托大家的福，网站又被攻击了，这次挂了！`、`该无脑计算机吗？一个视频讲透计算机类所有专业！`、`Java学习路线一条龙版，无脑通关大厂，不迷茫！全面贴心`
-
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/a7bd8ce9d42cf6021aa3354dadc211c498ace18a.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/372313671)
 
 [**奇乐编程学院**](https://space.bilibili.com/372313671) \
