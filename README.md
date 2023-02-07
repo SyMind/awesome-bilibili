@@ -4,6 +4,7 @@
 		<a href="https://awesome.re">
 			<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 		</a>
+		<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square&logo=git" />
   	</h1>
 	<br />
     <div>
