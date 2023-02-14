@@ -136,6 +136,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 可以在这里找到计算机科学的核心概念。有些 up 主教你数学运算，包括很多不同数学主题的内容。
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/3ba3d5a728eb6cdcb80562650fbaa4fc13370ef6.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/512313464)
+
+[**GAMES-Webinar**](https://space.bilibili.com/512313464) \
+内容类型：计算机图形学 \
+优质内容：`GAMES101-现代计算机图形学入门-闫令琪`、`GAMES202-高质量实时渲染`、`GAMES104-现代游戏引擎：从入门到实践`、`GAMES201：高级物理引擎实战指南2020`
+
 [🔼 回到顶部](#内容)
 
 ## 机器学习
