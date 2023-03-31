@@ -220,7 +220,7 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 [**谭玉刚**](https://space.bilibili.com/41036636) \
 内容类型：操作系统 \
-优质内容：[Coding Master](https://space.bilibili.com/41036636/channel/collectiondetail?sid=1096&ctype=0)、[UEFI](https://space.bilibili.com/41036636/channel/collectiondetail?sid=54177&ctype=0)
+优质内容：`Coding Master`、`UEFI`
 
 <br />
 
@@ -240,7 +240,7 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 [**bitebyte**](https://space.bilibili.com/12591775) \
 内容类型：书籍推荐 \
-优质内容：`如何快速了解计算机组成原理，我推荐科普读物《编码》`、`【豆瓣8.8】如何快速从小工到专家，《程序员修炼之道》是一本秘籍`、`如何理解大佬们常说的用户态，内核态或者CPU上下文切换等专业知识，我推荐读一下《Linux是怎样工作的》`、`如何理解大佬们常说的用户态，内核态或者CPU上下文切换等专业知识，我推荐读一下《Linux是怎样工作的》`、`如何快速了解企业网络结构和家庭组网，我推荐豆瓣9.1分的奇书《网络是怎样连接的》`
+优质内容：`如何快速了解计算机组成原理，我推荐科普读物《编码》`、`【豆瓣8.8】如何快速从小工到专家，《程序员修炼之道》是一本秘籍`、`如何理解大佬们常说的用户态，内核态或者CPU上下文切换等专业知识，我推荐读一下《Linux是怎样工作的》`、`如何快速了解企业网络结构和家庭组网，我推荐豆瓣9.1分的奇书《网络是怎样连接的》`
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/44882c2e4e40e370f328baa8583e33135eb36d07.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/489667127)
 
