@@ -52,6 +52,12 @@
 内容类型：原理、框架入门、算法 \
 优质内容：`FFmpeg 最最强大的视频工具 (转码/压缩/剪辑/滤镜/水印/录屏/Gif/...)`、`最浅显易懂的 KMP 算法讲解`、`React Reactjs 10分钟快速入门`、`为什么你应当使用 TypeScript? TS 十分钟快速入门`、`多线程编程：一次性搞懂线程同步机制`、`用AI写代码是什么样的体验？亲测GitHub Copilot`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/81a4c852925b873f42c4971c836a67ea9dd2ef41.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/361469957)
+
+[**软件工艺师**](https://space.bilibili.com/361469957) \
+内容类型：Rust、Go \
+优质内容：`Rust编程语言入门教程（Rust语言/Rust权威指南配套）`、`Go语言编写简单分布式系统`、`Go Web 编程快速入门`、`Go语言编程快速入门`
+
 [🔼 回到顶部](#内容)
 
 ## Web 开发
