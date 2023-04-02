@@ -58,6 +58,12 @@
 内容类型：Rust、Go \
 优质内容：`Rust编程语言入门教程（Rust语言/Rust权威指南配套）`、`Go语言编写简单分布式系统`、`Go Web 编程快速入门`、`Go语言编程快速入门`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/378e302faec33f1168246f917f11a0fd7577f9fa.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/39222989)
+
+[**喜欢历史的程序君**](https://space.bilibili.com/39222989) \
+内容类型：Rust、Go \
+优质内容：`程序君的 Rust 培训`、`Rust 项目实操`、`Rust Deno 深度探索`、`Rust WASM 开发`、`Rust crates 大巡礼`
+
 [🔼 回到顶部](#内容)
 
 ## Web 开发
