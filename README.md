@@ -46,6 +46,12 @@
 内容类型：Python \
 优质内容：`一眼就能看出唱功和假唱？用软件来分析一下跨年演唱会的歌手们！`、`【羊了个羊】故意设置死局？程序员的陷阱？源代码不会骗人！带你揭秘这只羊背后的逻辑`、`【python】魔术方法大全`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/2445a8c2782baacfa0cf7559b42a80514361c118.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/504069720)
+
+[**清华邓博士**](https://space.bilibili.com/504069720) \
+内容类型：Rust \
+优质内容：`借RUST谈系统编程内存模型`、`概率机器学习精神 Prob ML Spirit by Deng`、`Dr.Dng陪跑CSAPP: bigONE《深入理解计算机系统》`、`首讲Stanford CS231AAA：计算机视觉基础课`
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/a7bd8ce9d42cf6021aa3354dadc211c498ace18a.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/372313671)
 
 [**奇乐编程学院**](https://space.bilibili.com/372313671) \
@@ -61,7 +67,7 @@
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/378e302faec33f1168246f917f11a0fd7577f9fa.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/39222989)
 
 [**喜欢历史的程序君**](https://space.bilibili.com/39222989) \
-内容类型：Rust、Go \
+内容类型：Rust \
 优质内容：`程序君的 Rust 培训`、`Rust 项目实操`、`Rust Deno 深度探索`、`Rust WASM 开发`、`Rust crates 大巡礼`
 
 [🔼 回到顶部](#内容)
