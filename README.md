@@ -164,13 +164,19 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 ## 机器学习
 
-分享深度学习、自然语言处理、神经网络方面等主题的 up 主。
+分享深度学习、自然语言处理、神经网络、ChatGPT 方面等主题的 up 主。
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/15afabcda93279a5ab2f736513ad112e836a9701.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/1567748478)
 
 [**跟李沐学AI**](https://space.bilibili.com/1567748478) \
 内容类型：PyTorch \
 优质内容：`Transformer论文逐段精读【论文精读】`、`斯坦福2021秋季·实用机器学习【中文】`、`动手学深度学习 PyTorch版`
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i1.hdslb.com/bfs/face/c7316050834804776d740717836c8ba81cfb6fef.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"/>](https://space.bilibili.com/1921388479)
+
+[**梗直哥丶**](https://space.bilibili.com/1921388479) \
+内容类型：深度学习、ChatGPT \
+优质内容：`【卷积】直观形象的实例，10分钟彻底搞懂`、`【HMM隐马尔科夫模型】上帝之手背后的逻辑`、`【梯度下降】3D可视化讲解通俗易懂`、`【循环神经网络】5分钟搞懂RNN，3D动画深入浅出`
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/66d18877c510381d9479d822fc4dfecb82c2efc3.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/243821484)
 
