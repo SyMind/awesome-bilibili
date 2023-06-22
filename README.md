@@ -272,4 +272,10 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 内容类型：科技周报、开源案例分析 \
 优质内容：`Hacker News 周报`、`Bloomberg｜财经巨头的开源之道｜Benefited from Open Source`、`Mozilla，火狐浏览器背后神秘又伟大的开源组织｜Open Source Prism`、`Vercel 与 Next.js：开源全明星团队背后的商业逻辑｜Monetizing Open Source`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/652027d706d5fd3542c9f7435044e4884240f43e.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"/>](https://space.bilibili.com/18937923)
+
+[**美团技术团队**](https://space.bilibili.com/18937923) \
+内容类型：技术沙龙 \
+优质内容：`熊锐-DDD的理解及实践探讨`、`美团万亿级数据库稳定性保障-黄潇`、`前端异常监控系统建设-干黄标`、`美团如何完成“祖传数仓”的标准化治理-黄伟伦`、`王辉-美团分布式文件存储EFS`
+
 [🔼 回到顶部](#内容)
