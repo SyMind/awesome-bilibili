@@ -43,7 +43,7 @@
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i1.hdslb.com/bfs/face/edbf5d5a620567195155dde1e7fe9ef324733cd3.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"/>](https://space.bilibili.com/102438649)
 
 [**GeekHour**](https://space.bilibili.com/102438649) \
-内容类型：Python \
+内容类型：Redis、Git、Docker、Nginx \
 优质内容：`【GeekHour】一小时Redis教程`、`【GeekHour】一小时Git教程`、`【GeekHour】30分钟Docker入门教程`、`【GeekHour】30分钟Nginx入门教程`
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i1.hdslb.com/bfs/face/da5e47c81a8914084d6db2d364c075b451c058e2.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/245645656)
@@ -147,6 +147,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 [**刘丹冰Aceld**](https://space.bilibili.com/373073810) \
 内容类型：Go、Linux \
 优质内容：`8小时转职Golang工程师(如果你想低成本学习Go语言)`、`zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)`、`Golang深入理解GPM模型`、`Golang中GC回收机制三色标记与混合写屏障`、`深入理解Linux中网络I/O复用并发模型`、`Easy搞定Golang设计模式(学Go语言设计模式，如此简单!)`
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/a1d879f0bbb875b33370270c52a01ff99a7cc03f.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"/>](https://space.bilibili.com/375038855)
+
+[**面向加薪学习**](https://space.bilibili.com/375038855) \
+内容类型：Go、gin \
+优质内容：`Go语言语法精练 [2023最新Go语言教程，没有废话，纯干货！]`、`5小时go语言了解设计模式（23个完整）`、`【2023】最新最全Rust编程语言入门教程`、`Go语言gin+grpc框架实战`
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/cf8dce0c6036728da66a47fbb3662d0500051951.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/296029197)
 
