@@ -40,6 +40,12 @@
 
 编程语言有很多。在本节中，你可以找到任何编程语言，包括 Python、C、Java。此外，许多 b 站 up 主教授这些语言的框架。不仅是编程语言，还有更为通用的编程技能，有实战教程也有理论教程。
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i1.hdslb.com/bfs/face/edbf5d5a620567195155dde1e7fe9ef324733cd3.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"/>](https://space.bilibili.com/102438649)
+
+[**GeekHour**](https://space.bilibili.com/102438649) \
+内容类型：Python \
+优质内容：`【GeekHour】一小时Redis教程`、`【GeekHour】一小时Git教程`、`【GeekHour】30分钟Docker入门教程`、`【GeekHour】30分钟Nginx入门教程`
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i1.hdslb.com/bfs/face/da5e47c81a8914084d6db2d364c075b451c058e2.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/245645656)
 
 [**码农高天**](https://space.bilibili.com/245645656) \
