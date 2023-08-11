@@ -148,6 +148,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 内容类型：Golang \
 优质内容：`晓黑板 go-zero 微服务框架的架构设计`、`理论结合实践详解 B+ 树存储引擎（InnoDB、BoltDB、BuntDB）【Go 夜读】`、`深入浅出 Golang Runtime 【 Go 夜读 】`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/83bb511365da513c55aa3d1958524f3b7db40684.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"/>](https://space.bilibili.com/95256449)
+
+[**遇见狂神说**](https://space.bilibili.com/95256449) \
+内容类型：Java、SpringBoot、Redis \
+优质内容：`【狂神说Java】SpringBoot最新教程IDEA版通俗易懂`、`【狂神说Java】Docker最新超详细版教程通俗易懂`、`【狂神说Java】Java零基础学习视频通俗易懂`
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/a194f3cbe6e399caf7a6c88f578edc4b7ef65592.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/373073810)
 
 [**刘丹冰Aceld**](https://space.bilibili.com/373073810) \
