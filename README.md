@@ -142,10 +142,16 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 ### 后端
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/735a740232b89fc8f994202342f678e80d2dfa9b.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"/>](https://space.bilibili.com/326749661)
+
+[**Go夜读**](https://space.bilibili.com/326749661) \
+内容类型：Golang \
+优质内容：`晓黑板 go-zero 微服务框架的架构设计`、`理论结合实践详解 B+ 树存储引擎（InnoDB、BoltDB、BuntDB）【Go 夜读】`、`深入浅出 Golang Runtime 【 Go 夜读 】`
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/a194f3cbe6e399caf7a6c88f578edc4b7ef65592.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/373073810)
 
 [**刘丹冰Aceld**](https://space.bilibili.com/373073810) \
-内容类型：Go、Linux \
+内容类型：Golang、Linux \
 优质内容：`8小时转职Golang工程师(如果你想低成本学习Go语言)`、`zinx-Golang轻量级TCP服务器框架(适合Go语言自学-深入浅出)`、`Golang深入理解GPM模型`、`Golang中GC回收机制三色标记与混合写屏障`、`深入理解Linux中网络I/O复用并发模型`、`Easy搞定Golang设计模式(学Go语言设计模式，如此简单!)`
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/a1d879f0bbb875b33370270c52a01ff99a7cc03f.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"/>](https://space.bilibili.com/375038855)
