@@ -184,6 +184,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 内容类型：计算机图形学 \
 优质内容：`GAMES101-现代计算机图形学入门-闫令琪`、`GAMES202-高质量实时渲染`、`GAMES104-现代游戏引擎：从入门到实践`、`GAMES201：高级物理引擎实战指南2020`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/242b6a93391f283c34ca4b560fe7e76767366a66.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"/>](https://space.bilibili.com/1540261574)
+
+[**先进编译实验室**](https://space.bilibili.com/1540261574) \
+内容类型：深度学习、LLVM \
+优质内容：`LLVM编译器入门`、`深度学习编译基础`、`TVM系列`、`深度学习模型压缩`
+
 [🔼 回到顶部](#内容)
 
 ## 机器学习
