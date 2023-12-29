@@ -76,6 +76,12 @@
 内容类型：Rust \
 优质内容：`程序君的 Rust 培训`、`Rust 项目实操`、`Rust Deno 深度探索`、`Rust WASM 开发`、`Rust crates 大巡礼`
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/8ec17fd3097200519fa229ddafeafdc735debbbb.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"/>](https://space.bilibili.com/437860379)
+
+[**原子之音**](https://space.bilibili.com/437860379) \
+内容类型：C++、Rust、Go \
+优质内容：`C++现代实用教程:智能指针`、`现代C++: CMake简明教程`、`从零开始创建一个WebAssembly游戏`、`虚幻5.3 C++小游戏`、`Tauri1.0入门教程:Rust+Ts`
+
 [🔼 回到顶部](#内容)
 
 ## Web 开发
