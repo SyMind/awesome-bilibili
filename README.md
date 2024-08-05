@@ -266,6 +266,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 ## 计算机网络
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/872982590cd7c2de9f5a3f595059a71fb9c95004.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"/>](https://space.bilibili.com/410739029)
+
+[**中科大-郑烇老师**](https://space.bilibili.com/410739029)\
+内容类型：计算机网络\
+优质内容：`中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程`、`中科大郑烇全套《高级计算机网络》`
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/e749bf636c957649af9394eb442b96d2f2c54e69.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/360996402)
 
 [**湖科大教书匠**](https://space.bilibili.com/360996402) \
@@ -275,6 +281,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 [🔼 回到顶部](#内容)
 
 ## 操作系统
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/bc288c3544209fb2bdadaf45015721555175df17.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"/>](https://space.bilibili.com/202224425)
+
+[**绿导师原谅你了**](https://space.bilibili.com/202224425)\
+内容类型：操作系统\
+优质内容：`南京大学 “操作系统：设计与实现”`、`退役老选手的算法竞赛入门`、`2020 南京大学计算机系统基础习题课`、`NJU-ProjectN/abstract-machine`、`Introduction to Software Engineering Research`
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i2.hdslb.com/bfs/face/ab8eabf8337b624c5f8fcb082af32b74ffacddcc.jpg@240w_240h_1c_1s.webp"/>](https://space.bilibili.com/41036636)
 
