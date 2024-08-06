@@ -20,21 +20,23 @@
 
 ## 内容
 
--   [通用编程技能](#通用编程技能)
--   [Web 开发](#web-开发)
+- [内容](#内容)
+- [通用编程技能](#通用编程技能)
+- [Web 开发](#web-开发)
 	- [前端](#前端)
 	- [后端](#后端)
--   [计算机科学](#计算机科学)
--   [机器学习](#机器学习)
--   [区块链](#区块链)
--   [游戏开发](#游戏开发)
--   [移动端开发](#移动端开发)
--   [网络安全](#网络安全)
--   [计算机网络](#计算机网络)
--   [操作系统](#操作系统)
--   [音频与视频](#音频与视频)
--   [硬件](#硬件)
--   [资讯与杂谈](#资讯与杂谈)
+- [计算机科学](#计算机科学)
+- [算法](#算法)
+- [机器学习](#机器学习)
+- [区块链](#区块链)
+- [游戏开发](#游戏开发)
+- [移动端开发](#移动端开发)
+- [网络安全](#网络安全)
+- [计算机网络](#计算机网络)
+- [操作系统](#操作系统)
+- [音频与视频](#音频与视频)
+- [硬件](#硬件)
+- [资讯与杂谈](#资讯与杂谈)
 
 ## 通用编程技能
 
@@ -198,6 +200,34 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 
 [🔼 回到顶部](#内容)
 
+## 算法
+
+算法路上的一些优秀up。
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/6d74d5d4d4460ba1acad394d31a39515871d8c67.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"/>](https://space.bilibili.com/206214?spm_id_from=333.337.0.0)
+
+[**灵茶山艾府**](https://space.bilibili.com/206214?spm_id_from=333.337.0.0) \
+内容类型：算法和LeetCode题目讲解 \
+优质内容：`合集·基础算法精讲 高频面试题`\
+`合集·周赛`
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i1.hdslb.com/bfs/face/3124fe57829947791a794e5d226d6f23c15bdfd0.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"/>](https://space.bilibili.com/517494241?spm_id_from=333.337.0.0)
+
+[**董晓算法**](https://space.bilibili.com/517494241?spm_id_from=333.337.0.0) \
+内容类型：全面的算法讲解 \
+优质内容：`合集·G 数学`\
+`合集·A 基础算法`
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/4909ebc6f77d96b4e80a666aaa9ca6ccdc337819.jpg@240w_240h_1c_1s_!web-avatar-search-videos.webp"/>](https://space.bilibili.com/8888480?spm_id_from=333.337.0.0)
+
+[**左程云**](https://space.bilibili.com/8888480?spm_id_from=333.337.0.0) \
+内容类型：算法讲解 \
+优质内容：`算法通关`
+
+<br />
+
+[🔼 回到顶部](#内容)
+
 ## 机器学习
 
 分享深度学习、自然语言处理、神经网络、ChatGPT 方面等主题的 up 主。
@@ -219,6 +249,12 @@ Web 开发包括前端开发：最基本的（HTML、CSS 和 JavaScript）以及
 [**莫烦Python**](https://space.bilibili.com/243821484) \
 内容类型：Tensorflow、PyTorch、Numpy、Pandas \
 优质内容：`【莫烦Python】Tensorflow 搭建自己的神经网络`、`【莫烦Python】PyTorch 神经网络`、`【莫烦Python】Numpy & Pandas (数据处理教程)`
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://i0.hdslb.com/bfs/face/be0ee2cd3c691fe4d897ce0e73172f25f4fc3fdd.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif"/>](https://space.bilibili.com/1369507485?spm_id_from=333.337.0.0)
+
+[**王树森**](https://space.bilibili.com/1369507485?spm_id_from=333.337.0.0) \
+内容类型：图论、推荐系统、搜索引擎、Transformer、神经网络 \
+优质内容：`合集·搜索引擎技术——王树森`、`合集·推荐系统公开课——王树森`、`合集·图数据结构和算法`、`合集·小样本学习 Few-Shot Learning`、`合集·神经网络结构搜索 Neural Architecture Search`
 
 [🔼 回到顶部](#内容)
 
